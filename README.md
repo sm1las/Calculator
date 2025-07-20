@@ -38,7 +38,7 @@ This project uses **CMake** for building.
 ### 🛠️ Prerequisites
 
 - A C++20 compatible compiler (like `g++ 11+` or `clang++ 13+`)
-- CMake 3.15 or higher
+- CMake 3.16 or higher
 
 ### 📦 Build Steps
 
