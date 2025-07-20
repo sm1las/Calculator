@@ -1,0 +1,3 @@
+/workspaces/Calculator/build/CMakeFiles/c.dir
+/workspaces/Calculator/build/CMakeFiles/edit_cache.dir
+/workspaces/Calculator/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/c.dir/src/loading.cpp.o CMakeFiles/c.dir/src/main.cpp.o CMakeFiles/c.dir/src/main_menu.cpp.o CMakeFiles/c.dir/src/matrices.cpp.o CMakeFiles/c.dir/src/multiple_number.cpp.o CMakeFiles/c.dir/src/quadratic_equation.cpp.o CMakeFiles/c.dir/src/single_number.cpp.o CMakeFiles/c.dir/src/trigonometry.cpp.o -o c 

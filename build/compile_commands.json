@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/workspaces/Calculator/build",
+  "command": "/usr/bin/g++  -I/workspaces/Calculator/include -g -std=gnu++20 -o CMakeFiles/c.dir/src/loading.cpp.o -c /workspaces/Calculator/src/loading.cpp",
+  "file": "/workspaces/Calculator/src/loading.cpp",
+  "output": "CMakeFiles/c.dir/src/loading.cpp.o"
+},
+{
+  "directory": "/workspaces/Calculator/build",
+  "command": "/usr/bin/g++  -I/workspaces/Calculator/include -g -std=gnu++20 -o CMakeFiles/c.dir/src/main.cpp.o -c /workspaces/Calculator/src/main.cpp",
+  "file": "/workspaces/Calculator/src/main.cpp",
+  "output": "CMakeFiles/c.dir/src/main.cpp.o"
+},
+{
+  "directory": "/workspaces/Calculator/build",
+  "command": "/usr/bin/g++  -I/workspaces/Calculator/include -g -std=gnu++20 -o CMakeFiles/c.dir/src/main_menu.cpp.o -c /workspaces/Calculator/src/main_menu.cpp",
+  "file": "/workspaces/Calculator/src/main_menu.cpp",
+  "output": "CMakeFiles/c.dir/src/main_menu.cpp.o"
+},
+{
+  "directory": "/workspaces/Calculator/build",
+  "command": "/usr/bin/g++  -I/workspaces/Calculator/include -g -std=gnu++20 -o CMakeFiles/c.dir/src/matrices.cpp.o -c /workspaces/Calculator/src/matrices.cpp",
+  "file": "/workspaces/Calculator/src/matrices.cpp",
+  "output": "CMakeFiles/c.dir/src/matrices.cpp.o"
+},
+{
+  "directory": "/workspaces/Calculator/build",
+  "command": "/usr/bin/g++  -I/workspaces/Calculator/include -g -std=gnu++20 -o CMakeFiles/c.dir/src/multiple_number.cpp.o -c /workspaces/Calculator/src/multiple_number.cpp",
+  "file": "/workspaces/Calculator/src/multiple_number.cpp",
+  "output": "CMakeFiles/c.dir/src/multiple_number.cpp.o"
+},
+{
+  "directory": "/workspaces/Calculator/build",
+  "command": "/usr/bin/g++  -I/workspaces/Calculator/include -g -std=gnu++20 -o CMakeFiles/c.dir/src/quadratic_equation.cpp.o -c /workspaces/Calculator/src/quadratic_equation.cpp",
+  "file": "/workspaces/Calculator/src/quadratic_equation.cpp",
+  "output": "CMakeFiles/c.dir/src/quadratic_equation.cpp.o"
+},
+{
+  "directory": "/workspaces/Calculator/build",
+  "command": "/usr/bin/g++  -I/workspaces/Calculator/include -g -std=gnu++20 -o CMakeFiles/c.dir/src/single_number.cpp.o -c /workspaces/Calculator/src/single_number.cpp",
+  "file": "/workspaces/Calculator/src/single_number.cpp",
+  "output": "CMakeFiles/c.dir/src/single_number.cpp.o"
+},
+{
+  "directory": "/workspaces/Calculator/build",
+  "command": "/usr/bin/g++  -I/workspaces/Calculator/include -g -std=gnu++20 -o CMakeFiles/c.dir/src/trigonometry.cpp.o -c /workspaces/Calculator/src/trigonometry.cpp",
+  "file": "/workspaces/Calculator/src/trigonometry.cpp",
+  "output": "CMakeFiles/c.dir/src/trigonometry.cpp.o"
+}
+]
